@@ -15,3 +15,9 @@ Ask the robot about itself, and you'll find the option turn it into a clone of a
 * Name
 * Face
 * Email address
+
+## License
+
+<a class="inline" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Practice Guide</span> by <a class="inline" xmlns:cc="http://creativecommons.org/ns#" href="http://andyvn.ath.cx/" property="cc:attributionName" rel="cc:attributionURL">Andy Van Ness</a> is licensed under a <a class="inline" rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
