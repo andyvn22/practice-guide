@@ -16,6 +16,12 @@ Ask the robot about itself, and you'll find the option turn it into a clone of a
 * Face
 * Email address
 
+Want to change anything else? Fork & start coding!
+
+## How to Edit
+
+Use [Twine](https://twinery.org), an open-source interactive fiction editor.
+
 ## License
 
 <a class="inline" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
