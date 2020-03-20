@@ -6,8 +6,8 @@ An interactive band teacher to help guide students through practicing, studying 
 ## Example
 
 See it in action:
-* Here, as a generic robot: http://practice.is-very-good.org/r/
-* Here, as a clone of its creator: http://practice.is-very-good.org/vn/
+* Here, as a generic robot <img src="http://practice.is-very-good.org/r/media/robot.png" height="24" />: http://practice.is-very-good.org/r/ 
+* Here, as a clone of its creator <img src="http://practice.is-very-good.org/r/media/van-ness.png" height="24" />: http://practice.is-very-good.org/vn/ 
 
 ## Flexibility
 
