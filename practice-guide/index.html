@@ -160,10 +160,11 @@ window.yourRealTeacher = function() {
 
 window.hasEmail = function() {
 	let urlParams = new URLSearchParams(window.location.search);
-	return urlParams.has('email');
+	return urlParams.has('email') || isVanNess();
 }
 
 window.email = function() {
+	if (isVanNess()) { return "avanness@rhcsd.org"; }
 	let urlParams = new URLSearchParams(window.location.search);
 	return urlParams.get('email');
 }
